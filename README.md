@@ -4,7 +4,7 @@ Reference software for **Before Prediction Becomes Too Late: A Theory of Interve
 
 Copyright (C) 2026 Mohammad Amir Khusru Akhtar. Licensed under Apache-2.0.
 
-## One-click GitHub workflow
+## GitHub workflow
 Upload this folder as the root of a GitHub repository. Open **Actions -> One-click reproduce -> Run workflow**. The workflow installs the package, runs the full test suite, imports the interactive app as a smoke test, regenerates every benchmark table and figure, and uploads the results artifact.
 
 ## Local reproduction

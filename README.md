@@ -1,4 +1,4 @@
-# Intervention Horizon v2.1
+# Intervention Horizon
 
 Reference software for **Before Prediction Becomes Too Late: A Theory of Intervention Horizons for Preventable Harm**.
 

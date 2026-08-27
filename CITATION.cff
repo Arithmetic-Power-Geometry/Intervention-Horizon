@@ -3,7 +3,21 @@ message: "If you use this software, please cite the accompanying Intervention Ho
 title: "Intervention Horizon"
 version: 2.1.0
 date-released: 2026-08-27
+
 authors:
-  - family-names: Akhtar
-    given-names: Mohammad Amir Khusru
+  - family-names: "Akhtar"
+    given-names: "Mohammad Amir Khusru"
+
 license: Apache-2.0
+
+repository-code: "https://github.com/Arithmetic-Power-Geometry/Intervention-Horizon"
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Akhtar"
+      given-names: "Mohammad Amir Khusru"
+  title: "Before Prediction Becomes Too Late: A Theory of Intervention Horizons for Preventable Harm"
+  year: 2026
+  doi: "10.5281/zenodo.22128954"
+  url: "https://doi.org/10.5281/zenodo.22128954"

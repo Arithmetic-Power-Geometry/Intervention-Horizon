@@ -1,0 +1,7 @@
+quantity,value,unit,source
+Jharkhand population,32988134.0,persons,Census 2011
+Jharkhand districts,24.0,districts,Census 2011
+"Lightning flashes, Jharkhand 2000-2020",1256404.0,flashes,"Mishra et al. 2025, Natural Hazards"
+Peak annual flashes (2006),101302.0,flashes,"Mishra et al. 2025, Natural Hazards"
+Male share of recorded fatalities,70.39,percent,"Mishra et al. 2025, Natural Hazards"
+"Jharkhand thunderstorm/lightning deaths, 2025",170.0,> deaths,IMD Annual Climate Summary 2025
